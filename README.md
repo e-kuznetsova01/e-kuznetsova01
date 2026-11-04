@@ -10,7 +10,6 @@ I combine political science and analytics with IT: I’m learning to work with d
 Here I share my journey: what worked, where I made mistakes, and what I learned. I’d love feedback and advice!
 
 
-# Hello, World!
 # Я Екатерина, студентка Уральского Федерального университета (УрФУ).
 Учусь на направлении, связанном с государственным управлением, политологией, социологией и аналитикой.
 
