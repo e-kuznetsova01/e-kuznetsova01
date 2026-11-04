@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, World!
+# I’m Ekaterina, a student at Ural Federal University (UrFU).
+I am studying in a field related to public administration, political science, sociology and analytics.
 
-<!--
-**e-kuznetsova01/e-kuznetsova01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I combine political science and analytics with IT: I’m learning to work with data and automate routine tasks. Right now I’m studying:
+— Python for data analysis and automation;
+— SQL and PostgreSQL;
+— building applications with language models: chatbots, working with APIs, retrieval over documents (RAG).
 
-Here are some ideas to get you started:
+Here I share my journey: what worked, where I made mistakes, and what I learned. I’d love feedback and advice!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hello, World!
+# Я Екатерина, студентка Уральского Федерального университета (УрФУ).
+Учусь на направлении, связанном с государственным управлением, политологией, социологией и аналитикой.
+
+Совмещаю политологию и аналитику с IT: учусь работать с данными и автоматизировать рутинные задачи. Сейчас осваиваю:
+— Python для анализа данных и автоматизации;
+— SQL и PostgreSQL;
+— разработку на основе языковых моделей: чат-боты, работа с API, поиск по документам (RAG).
+
+Здесь я делюсь своим путём: что получилось, где ошиблась и что поняла. Буду рада обратной связи и советам!
